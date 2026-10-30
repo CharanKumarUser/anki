@@ -1,6 +1,14 @@
 # 🩺 Marrow PYQ Flashcards & Question Bank Portal
 
+### 🔗 **Live Website:** [https://charankumaruser.github.io/anki/](https://charankumaruser.github.io/anki/)
+
 > **5,540 High-Yield Previous Year Questions (2017–2025)** from **NEET PG**, **INI-CET**, and **AIIMS**, organized across all **19 MBBS subjects** with verified answers, clinical images, detailed high-yield explanations, and textbook citations.
+
+---
+
+## 🚀 Instant Access Link
+Your sister can open this link directly in Safari, Chrome, or any mobile browser on her phone, tablet, iPad, or PC:
+👉 **[https://charankumaruser.github.io/anki/](https://charankumaruser.github.io/anki/)**
 
 ---
 
